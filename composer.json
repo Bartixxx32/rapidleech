@@ -1,7 +1,13 @@
 {
   "require": {
+<<<<<<< HEAD
     "php": "^7.2.0",
     "phpseclib/mcrypt_compat": "^1.0",
     "lizhibin/php-mcrypt": "dev-master"
+=======
+    "php": "7.2",
+    "ext-memcached": "*",
+    "ext-mcrypt": "*"
+>>>>>>> parent of ebbc85d... Delete composer.json
   }
 }
