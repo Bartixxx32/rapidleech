@@ -16,20 +16,12 @@ class ComposerStaticInit6e7396f27df417c71c7afeb668cc07e5
         array (
             'phpseclib\\' => 10,
         ),
-        'M' => 
-        array (
-            'Mcrypt\\' => 7,
-        ),
     );
 
     public static $prefixDirsPsr4 = array (
         'phpseclib\\' => 
         array (
             0 => __DIR__ . '/..' . '/phpseclib/phpseclib/phpseclib',
-        ),
-        'Mcrypt\\' => 
-        array (
-            0 => __DIR__ . '/..' . '/lizhibin/php-mcrypt/src/Mcrypt',
         ),
     );
 
