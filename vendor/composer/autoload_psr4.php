@@ -7,4 +7,5 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'phpseclib\\' => array($vendorDir . '/phpseclib/phpseclib/phpseclib'),
+    'Mcrypt\\' => array($vendorDir . '/lizhibin/php-mcrypt/src/Mcrypt'),
 );

@@ -1,6 +1,7 @@
 {
   "require": {
     "php": "^7.2.0",
-    "phpseclib/mcrypt_compat": "^1.0"
+    "phpseclib/mcrypt_compat": "^1.0",
+    "lizhibin/php-mcrypt": "dev-master"
   }
 }
